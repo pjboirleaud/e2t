@@ -1,0 +1,1 @@
+COLUMN C Content + Trim = #{C|trim()}

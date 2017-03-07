@@ -1,0 +1,3 @@
+README EXAMPLE ${e2t.version}
+Généré le: #{date()}
+Hostname: #{hostname()}
